@@ -1,6 +1,8 @@
 # retro-charm
 A wearable retro-pixel jewelry badge that displays animations on a TFT screen. It cycles through retro clouds, pixel art, and animations. Powered by a tiny rechargeable battery, it’s stylish and geeky at the same time.
 
+![Concept](images/retro-charm-concept.png)
+
 
 **Core features:**
 
@@ -27,3 +29,6 @@ A wearable retro-pixel jewelry badge that displays animations on a TFT screen. I
 
 - Breadboard-friendly SPDT Slide Switch
 
+
+
+I recieved all the components to work on this project, and will be updating on progress through a Journal folder. 
