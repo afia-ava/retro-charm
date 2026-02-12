@@ -1,11 +1,9 @@
-Bill of Materials (BOM)
-
 Item,Description,Quantity,Price,Link
-Microcontroller,Adafruit Pro Trinket - 5V 16MHz,1,$9.95,https://www.adafruit.com/product/2000
-Display,1.44" Color TFT LCD Display with MicroSD Card,1,$14.95,https://www.adafruit.com/product/2088
-Battery,100mAh Lithium Polymer Battery,1,$5.95,https://www.adafruit.com/product/1570
-Battery Add-On,Adafruit LiIon/LiPoly Backpack for Pro Trinket,1,$4.95,https://www.adafruit.com/product/2124
-Sensor,Fast Vibration Sensor Switch,1,$0.95,https://www.adafruit.com/product/2384
-Switch,Breadboard-friendly SPDT Slide Switch,1,$0.95,https://www.adafruit.com/product/805
-3D Print,3D print filament,1,$11.99,https://www.amazon.com/eSUN-Filament-Printing-Printer-Designed/dp/B0DGQBMJMK/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.iYpkFUER5aTJ0_thfmYY1rswLjHKQUzHTfBmRYRfx6HCxpUI0pMjYB-BDpDepDdonyB_54uY70SXTTN9Esu5UU8Oqt0Il-2D1k0LOmnn54pfg2voYxSrxBfwJ1XtTUPEZPWtsauc5Si7Q9bGby5Ej75ICmoQzJAKiVdwYVYy6ECWVTiBidHOOmdC6jQEmQekfHX5aIbsV2bkmTS6xVSqiX5YzS4ZapRjrBmBFAvEm4Y.Os1oFJ5JvVvMIEOsrkg_zvE9kdltDUqnR1maHoZX_Vw&dib_tag=se&hvadid=694633778618&hvdev=c&hvexpln=67&hvlocphy=1027851&hvnetw=g&hvocijid=12376659169097731341--&hvqmt=e&hvrand=12376659169097731341&hvtargid=kwd-326088991604&hydadcr=8492_13654121&keywords=3d%2Bpla%2Bfilament&mcid=f5a3f40f185e3b7e907de1d2d4c54ae0&qid=1759190957&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
-Wires,Jumper wires / hookup wire,Assorted,NA
+Microcontroller,"Adafruit Pro Trinket - 5V 16MHz",1,$9.95,https://www.adafruit.com/product/2000
+Display,"1.44"" Color TFT LCD Display with MicroSD Card",1,$14.95,https://www.adafruit.com/product/2088
+Battery,"100mAh Lithium Polymer Battery",1,$5.95,https://www.adafruit.com/product/1570
+Battery Add-On,"Adafruit LiIon/LiPoly Backpack for Pro Trinket",1,$4.95,https://www.adafruit.com/product/2124
+Sensor,"Fast Vibration Sensor Switch",1,$0.95,https://www.adafruit.com/product/2384
+Switch,"Breadboard-friendly SPDT Slide Switch",1,$0.95,https://www.adafruit.com/product/805
+3D Print,"3D print filament",1,$11.99,https://www.amazon.com/eSUN-Filament-Printing-Printer-Designed/dp/B0DGQBMJMK
+Wires,"Jumper wires / hookup wire",1,,
